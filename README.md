@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi I am Sarthak Bakre. I am a full stack web developer. I am currently pursuing B.Tech in CSE.
+## How to reach me -
+Email - sarthak.bakre@gmail.com
+### Here are me projects..
+1) TodoList - ejs, node, mongoDB
+2) TheFlixDB - node.js, MongoDB, BootStrap
+3) E-commerce - React.js. Node.js, MySQL (curretly working on this)
 <!--
 **Sardar1208/Sardar1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
