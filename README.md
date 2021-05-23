@@ -1,10 +1,21 @@
-### Hi I am Sarthak Bakre. I am a full stack web developer. I am currently pursuing B.Tech in CSE.
-## How to reach me -
-Email - sarthak.bakre@gmail.com
-### Here are my projects..
-1) TodoList - ejs, node, mongoDB
-2) TheFlixDB - node.js, MongoDB, BootStrap
-3) E-commerce - React.js. Node.js, MySQL (curretly working on this)
+# Hi I am Sarthak Bakre 👨‍💻.
+### Full Stack Developer 🏗️ | CSE Student
+
+### About me
+Being a JS-era kid, I have worked and messed up with **React**, **Node**, **Express** also been using **MongoDB** and **MySQL** for my storage solutions. For a brief period was obsesed with game development (**Unity**, **Blender**, **UnrealEngine**) and also did a bit of **Python** scripting and tried my hands on Neural Networks 🤏.
+
+When I am not coding, I enjoy playing **Valorant** (Ping me on Sardar#6969 and let's queue together sometime), reading *fiction*, binging **HIMYM** ❤️ on repeat and eating alot and passing this lockdown 😖
+
+### Checkout my projects [here](https://www.google.com)
+
+<h3> 🤝🏻 Find me on </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/Sardar_1208" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/sarthakbakre/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/sarthak-bakre-915a681bb/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:sarthak.bakre@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 <!--
 **Sardar1208/Sardar1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
