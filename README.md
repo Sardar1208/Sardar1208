@@ -6,7 +6,7 @@ Being a JS-era kid, I have worked and messed up with **React**, **Node**, **Expr
 
 When I am not coding, I enjoy playing **Valorant** (Ping me on Sardar#6969 and let's queue together sometime), reading *fiction*, binging **HIMYM** ❤️ on repeat and eating alot and passing this lockdown 😖
 
-### Checkout my projects [here](https://www.google.com)
+### Checkout my projects [here](https://github.com/Sardar1208?tab=repositories)
 
 <h3> 🤝🏻 Find me on </h3>
 
