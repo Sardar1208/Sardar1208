@@ -4,7 +4,7 @@
 ### About me
 Being a JS-era kid, I have worked and messed up with **React**, **Node**, **Express** also been using **MongoDB** and **MySQL** for my storage solutions. For a brief period was obsessed with game development (**Unity**, **Blender**, **UnrealEngine**) and also did a bit of **Python** scripting and tried my hands on Neural Networks 🤏.
 
-When I am not coding, I enjoy playing **Valorant** (Ping me on Sardar#6969 and let's queue together sometime), reading *fiction*, binging **HIMYM** ❤️ on repeat and eating alot and passing this lockdown 😖
+When I am not coding, I enjoy playing **Valorant** (Ping me on Sardar#jod and let's queue together sometime), reading *fiction*, binging **HIMYM** ❤️ on repeat and eating alot and passing this lockdown 😖
 
 ### Checkout my projects [here](https://github.com/Sardar1208?tab=repositories)
 
