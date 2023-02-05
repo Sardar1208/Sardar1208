@@ -1,5 +1,5 @@
 # Hi I am Sarthak Bakre 👨‍💻.
-### Full Stack Developer 🏗️ | CSE Student
+### SDE Intern @GeekyAnts 🏗️ | CSE Student
 
 ### About me
 Being a JS-era kid, I have worked and messed up with **React**, **Node**, **Express** also been using **MongoDB** and **MySQL** for my storage solutions. For a brief period was obsessed with game development (**Unity**, **Blender**, **UnrealEngine**) and also did a bit of **Python** scripting and tried my hands on Neural Networks 🤏.
