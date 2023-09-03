@@ -11,7 +11,7 @@ When I am not coding, I enjoy playing **Valorant** (Ping me on Sardar#jod and le
 <h3> 🤝🏻 Find me on </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/Sardar_1208" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/sarthakbakre" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
 &nbsp; <a href="https://www.instagram.com/sarthakbakre/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/sarthak-bakre-915a681bb/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:sarthak.bakre@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
