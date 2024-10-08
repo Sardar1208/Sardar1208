@@ -1,10 +1,10 @@
 # Hi I am Sarthak Bakre 👨‍💻.
-### SDE @GeekyAnts 🏗️
+### SDE II @GeekyAnts 🏗️
 
 ### About me
-Being a JS-era kid, I have worked and messed up with **React**, **Node**, **Express** also been using **MongoDB** and **MySQL** for my storage solutions. For a brief period was obsessed with game development (**Unity**, **Blender**, **UnrealEngine**) and also did a bit of **Python** scripting and tried my hands on Neural Networks 🤏.
+Hey! I am a Software Engineer specializing in React Native. I have around 2+ years of experience in React Native along with Flutter and React JS. During these years I have worked on tech involved in Fintech, Transactions, Networking and social media applications. 
 
-When I am not coding, I enjoy playing **Valorant** (Ping me on Mugiwara#jod and let's queue together sometime), reading *fiction*, binging **HIMYM** ❤️ on repeat and eating alot and passing this lockdown 😖
+Apart from this, I also have interest in low level languages like Rust. And I like to write blogs and publish youtube videos showcasing my work. (@theOrdinaryDev)
 
 ### Checkout my projects [here](https://github.com/Sardar1208?tab=repositories)
 
