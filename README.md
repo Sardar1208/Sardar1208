@@ -2,7 +2,7 @@
 ### SDE II @GeekyAnts 🏗️
 
 ### About me
-Hey! I am a Software Engineer specializing in React Native. I have around 2+ years of experience in React Native along with Flutter and React JS. During these years I have worked on tech involved in Fintech, Transactions, Networking and social media applications. 
+Hey! I am a Software Engineer specializing in React Native. I have around 3+ years of experience in React Native along with Flutter and React JS. During these years I have worked on tech involved in Fintech, Transactions, Networking and social media applications. 
 
 Apart from this, I also have interest in low level languages like Rust. And I like to write blogs and publish youtube videos showcasing my work. (@theOrdinaryDev)
 
